@@ -1,2 +1,2 @@
 # SDS-assesment
-# This is the data of spatial data science course.
+This is the data document of spatial data science course.
